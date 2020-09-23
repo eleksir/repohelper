@@ -1,0 +1,12 @@
+{
+    "dir" : {
+        "my/6/" : {
+            "hook" : "/usr/bin/createrepo_c",
+            "path" : "/home/www/html/my/6"
+        },
+        "my/7/" : {
+            "hook" : "/usr/bin/createrepo_c",
+            "path" : "/home/www/html/my/7"
+        }
+    }
+}
